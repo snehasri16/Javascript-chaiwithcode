@@ -19,3 +19,4 @@ console.log(accCity);
 console.log(accId);
 console.table([accEmail,accCity,accPassword,accState])
 //done
+//basics is done
