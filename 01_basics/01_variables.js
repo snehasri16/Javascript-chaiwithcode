@@ -14,7 +14,7 @@ let accEmail="sneha@gmail.com"
 var  accPassword="12345"
 accCity="hnk"
 let accState;
-
+console.log(typeof(accId));
 console.log(accCity);
 console.log(accId);
 console.table([accEmail,accCity,accPassword,accState])
